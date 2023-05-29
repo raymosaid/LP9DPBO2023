@@ -1,0 +1,1 @@
+hunians[index].get_detail() + hunians[index].get_summary() + "\n" + hunians[index].get_dokumen()
