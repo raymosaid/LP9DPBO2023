@@ -22,6 +22,14 @@ Spesifikasi:
   <li>Klik tombol close untuk menutup halaman detail/summary</li>
   <li>Klik tombol exit untuk keluar program</li>
 </ol>
+
+<h2>Video Hasil Program</h2>
+
+
+https://github.com/raymosaid/LP9DPBO2023/assets/99600360/d31fda9b-4dce-4e3b-a309-bc0e5d14e1d7
+
+
+
 <h2>Coba DB</h2>
   <img src="https://github.com/raymosaid/LP9DPBO2023/assets/99600360/dbedf046-bb39-46b9-b5af-aac743449ad6"/>
 
