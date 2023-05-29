@@ -1,3 +1,6 @@
+# Saya Mohammad Ray Mosaid dengan NIM 2004942 mengerjakan LP9 Praktikum DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek
+# untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 from hunian import Hunian
 
 class Indekos(Hunian):

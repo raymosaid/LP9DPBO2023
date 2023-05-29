@@ -1,3 +1,6 @@
+# Saya Mohammad Ray Mosaid dengan NIM 2004942 mengerjakan LP9 Praktikum DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek
+# untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 class Hunian():
     # Create constructor
     def __init__(self, jenis, jml_penghuni = 1, jml_kamar = 1, image = ""):
